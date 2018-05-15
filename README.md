@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Ana's Website!
 
-You can use the [editor on GitHub](https://github.com/AnaDorin/html-breaker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project is intended to illustrate my ability to write the simple websites in GitHub. Let's get started! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sometimes, it is a cool thing to share a bit of light about yourself. I love creating something visually beautiful and that's why one of my projects that already brings me the income is the beauty business. More than this, I have been always passionate for photography both as a photographer and model (check out the pics).
 
-### Markdown
+### 1. Meet Zara - an extravagant, independent but lovable young cat:
+
+[link] 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
